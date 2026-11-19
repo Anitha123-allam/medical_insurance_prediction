@@ -1,6 +1,7 @@
-# Medical Insurance Charges Prediction
+
 
 # 🏥 Medical Insurance Cost Prediction Using Machine Learning
+<img width="1534" height="838" alt="image" src="https://github.com/user-attachments/assets/17de7227-0f23-453b-896c-1d97583d832c" />
 
 ## 📌 Project Overview
 
@@ -112,7 +113,7 @@ Medical-Insurance-Cost-Prediction/
 **Step 1: Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/Medical-Insurance-Cost-Prediction.git
+https://github.com/Anitha123-allam/medical_insurance_prediction
 ```
 
 **Step 2: Navigate to the project folder**
